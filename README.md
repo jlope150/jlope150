@@ -1,7 +1,7 @@
 ## Hi there 👋
-💻 Software Quality Engineer />
-👾 Studied Cybersecurity at UC Berkeley />
-💭 I’m currently working on Adversarial ML />
+💻 Software Quality Engineer\
+👾 Studied Cybersecurity at UC Berkeley\
+💭 I’m currently working on Adversarial ML\
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlope150&theme=radical&show_icons=true)
 <!--
