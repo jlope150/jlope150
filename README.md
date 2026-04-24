@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 Software Quality Engineer\
+💻 AI SW & System Architect\
 👾 Studied Cybersecurity at UC Berkeley\
 💭 I’m currently working on Adversarial ML
 
